@@ -2,7 +2,7 @@
 
 [![Hack2Heal 2.0](https://img.shields.io/badge/Hackathon-Hack2Heal%202.0%20Global%20Healthcare-emerald?style=for-the-badge&logo=medscape)](https://hack2heal2.devpost.com/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-cardioecho.vercel.app-06b6d4?style=for-the-badge&logo=vercel)](https://cardioecho.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-RaghavParasher%2FCardioEcho--AI-38bdf8?style=for-the-badge&logo=github)](https://github.com/RaghavParasher/CardioEcho-AI)
+[![GitHub](https://img.shields.io/badge/GitHub-RaghavParasher%2FCardioEcho--Edge--AI-38bdf8?style=for-the-badge&logo=github)](https://github.com/RaghavParasher/CardioEcho-Edge-AI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > **Submission for Hack2Heal 2.0 — Global Healthcare Innovation Hackathon**  
